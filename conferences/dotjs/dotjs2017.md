@@ -1,3 +1,6 @@
-# DOTJS 
+# DOTJS in PARIS
 
-Site: [https://www.dotjs.io/](DOTJS 2017
+Site: [DOTJS 2017](https://www.dotjs.io/)
+
+# Discount code
+Use *[REACTJSOSLO](http://bit.ly/dotjs_reactjsoslo)* as discount code for getting the 20% free.
