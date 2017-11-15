@@ -7,3 +7,7 @@ Site: [ReactiveConf](https://reactiveconf.com/)
 
 ### Discount
 Use REACTJSOSLO as discount code
+
+
+#### P.S.
+Thank you for the t-shirts and other gadgets!
